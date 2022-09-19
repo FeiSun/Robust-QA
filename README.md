@@ -89,3 +89,7 @@ Robust QA: attack, defense, robust
 [OpenBackdoor](https://github.com/thunlp/OpenBackdoor)
 
 
+**Backdoor on generative model**
+[Adversarial Attacks Against Deep Generative Models on Data: A Survey](https://arxiv.org/pdf/2112.00247.pdf)
+[Poisoning Attack on Deep Generative Models in Autonomous Driving](https://www.cs.wm.edu/~liqun/paper/securecomm19.pdf)
+
