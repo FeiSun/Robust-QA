@@ -102,8 +102,6 @@ Robust QA: attack, defense, robust
 
 [EDITABLE NEURAL NETWORKS](https://arxiv.org/pdf/2004.00345.pdf)  ICLR 2020
 
-[EDITABLE NEURAL NETWORKS](https://arxiv.org/pdf/2004.00345.pdf) ICLR 2022
-
 [Editing a Classifier by Rewriting Its Prediction Rules](https://proceedings.neurips.cc/paper/2021/file/c46489a2d5a9a9ecfc53b17610926ddd-Paper.pdf) Neurips 2021
 
 [Editing Factual Knowledge in Language Models](https://arxiv.org/pdf/2104.08164.pdf) EMNLP 2021
