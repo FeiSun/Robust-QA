@@ -95,3 +95,25 @@ Robust QA: attack, defense, robust
 [Adversarial Attacks Against Deep Generative Models on Data: A Survey](https://arxiv.org/pdf/2112.00247.pdf)
 [Poisoning Attack on Deep Generative Models in Autonomous Driving](https://www.cs.wm.edu/~liqun/paper/securecomm19.pdf)
 
+
+# Model Editing
+
+[Calibrating Factual Knowledge in Pretrained Language Models](https://arxiv.org/pdf/2210.03329.pdf)  EMNLP 2022
+
+[EDITABLE NEURAL NETWORKS](https://arxiv.org/pdf/2004.00345.pdf)  ICLR 2020
+
+[EDITABLE NEURAL NETWORKS](https://arxiv.org/pdf/2004.00345.pdf) ICLR 2022
+
+[Editing a Classifier by Rewriting Its Prediction Rules](https://proceedings.neurips.cc/paper/2021/file/c46489a2d5a9a9ecfc53b17610926ddd-Paper.pdf) Neurips 2021
+
+[Editing Factual Knowledge in Language Models](https://arxiv.org/pdf/2104.08164.pdf) EMNLP 2021
+
+[Fast Model Editing at Scale](https://arxiv.org/pdf/2110.11309.pdf) ICLR 2022
+
+[Locating and Editing Factual Associations in GPT](https://arxiv.org/pdf/2202.05262.pdf)
+
+[Memory-Based Model Editing at Scale](https://proceedings.mlr.press/v162/mitchell22a/mitchell22a.pdf) PMLR 2022
+
+[Modifying Memories in Transformer Models](https://arxiv.org/pdf/2012.00363.pdf)
+
+[Prompt-based model editing](https://web.stanford.edu/class/cs224n/reports/custom_117170743.pdf)
