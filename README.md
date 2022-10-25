@@ -115,3 +115,25 @@ Robust QA: attack, defense, robust
 [Modifying Memories in Transformer Models](https://arxiv.org/pdf/2012.00363.pdf)
 
 [Prompt-based model editing](https://web.stanford.edu/class/cs224n/reports/custom_117170743.pdf)
+
+
+# Explanable NLP
+
+## survey:
+
+[Trustworthy AI: A Computational Perspective](https://arxiv.org/pdf/2107.06641.pdf)
+
+[A Survey of the State of Explainable AI for Natural Language Processing](https://arxiv.org/pdf/2010.00711.pdf):介绍nlp中常用方法
+
+## papers
+
+[Learning Global Transparent Models Consistent with
+Local Contrastive Explanations](https://proceedings.neurips.cc/paper/2020/file/24aef8cb3281a2422a59b51659f1ad2e-Paper.pdf)
+
+[Improving Visual Grounding by Encouraging
+Consistent Gradient-based Explanations](https://arxiv.org/pdf/2206.15462.pdf)
+
+[On Guaranteed Optimal Robust Explanations for NLP Models](https://arxiv.org/pdf/2105.03640.pdf)
+
+[A Comparative Study of Faithfulness Metrics for Model Interpretability
+Methods](https://arxiv.org/pdf/2204.05514.pdf) : 评价解释方法的faithful
