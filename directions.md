@@ -6,8 +6,16 @@
 
 
 ### 目前的研究
+1. Percy Liang发表在ACL2020上的一篇paper的做法是：
+
+
 
 
 
 ### Related Words
 [Selective Question Answering under Domain Shift](https://aclanthology.org/2020.acl-main.503.pdf)
+
+
+
+### 思考
+1. 本质问题还是说OOD嘛？为什么要用A模型去测试数据B呢？要是B有足够的数据完全可以送入模型A训练，所以OOD是希望一个模型能够解决所有测试数据嘛？
